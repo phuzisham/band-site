@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #0472A6;
+  color: white;
+  }
+.columns {
+  width: 20%;
+  display: inline-block;
+  float: top;
+}
+.columns p {
+  padding: 30px;
+  text-align: left;
+}
+.sidebar {
+  overflow: hidden;
+    margin-top: -80px;
+    width: 150pt;
+    float: right;
+    height: 150vh;
+    background-color: #6BAAD4;
+    color: black;
+    font-size: 18pt;
+    border-color: #6BAAD4;
+    border-width: thick;
+    margin-right: -8px;
+    margin-bottom: -20px;
+    border-style: solid;
+}
+
+.members img {
+  padding: 10px;
+  width: 25%;
+  display: inline;
+  }
+
+#main {
+  padding: 10px;
+  width: 60%;
+  position: center;
+}
